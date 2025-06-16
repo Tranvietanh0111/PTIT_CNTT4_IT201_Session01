@@ -25,3 +25,5 @@ int main()
     printf("phan tu xuat hien nhieu nhat la %d",maxRepeat);
     return 0;
 }
+
+//độ phức tạp về thời gian va không gian là O(n)và o(1)
