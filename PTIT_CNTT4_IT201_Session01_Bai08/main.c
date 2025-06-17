@@ -19,7 +19,7 @@ int repeatMax(int arr[],int n)
 }
 int main()
 {
-    int arr[]={1,2,1455,5,4,1,1,2,21,55,4}
+    int arr[]={1,2,1455,5,4,1,1,2,21,55,4};
     int n=sizeof(arr)/sizeof(arr[0]);
     int maxRepeat=repeatMax(arr,n);
     printf("phan tu xuat hien nhieu nhat la %d",maxRepeat);

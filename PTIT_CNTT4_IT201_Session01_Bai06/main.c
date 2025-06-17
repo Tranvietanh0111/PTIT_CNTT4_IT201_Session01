@@ -20,7 +20,7 @@ int main()
             repeat++;
         }
     }
-    printf("số cần kiểm tra cos số lan lap la %d",repeat);
+    printf("số %d xuất hiện %d lần trong mảng\n",n,repeat);
     return 0;
 
 }
